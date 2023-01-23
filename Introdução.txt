@@ -1,0 +1,19 @@
+Olá, obrigado por acessar o meu trabalho!
+
+O mesmo é dividido em três pastas:
+
+- ESP32;
+- PYTHON;
+- Executável;
+
+A pasta ESP32 apresenta os códigos desenvolvidos na Arduino IDE para configurar os sensores.
+    Apresenta ainda o código final, onde estão presentes 3 sensores de corrente, 3 sensores de tensão e 1 sensor de velocidade.
+    A comunicação entre o ESP32 e o computador é realizada via Serial.
+
+A pasta Python apresenta a interface gráfica desenvolvida. Para rodá-la em seu computador, é necessário realizar o download de todos os aruivos da pasta.
+    Após, basta rodar o programa Tcc_Principal.py
+
+A pasta Executável conta o o programa executável desenvolvido, onde não necessário nenhum compilador de Pyhton instalado no computador.
+    Para iniciá-lo basta baixar todos os arquivos presentes na pasta e executar o arquivo Tcc_Principal.exe
+
+No repositório está presente também o arquivo TCC.pdf, em que pode ser viualizado todo o passo a passo do trabalho desenvolvido.
